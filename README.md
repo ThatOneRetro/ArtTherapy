@@ -1,7 +1,5 @@
 # art_therapy
-I slapped my computer a few times and this happened.
-No, I haven't created elevator instances.
-No, I didn't use the original Art Therapy items except for the item images perhaps.
-And after all of this, I'm not even sure I'm happy I did this.
 
-Anyway, enjoy... if you can.
+Hey everyone!
+The link to the file is here: https://drive.google.com/drive/folders/1FUTEVQ1bITH60PiZ0lYisNk0iKiorW3r?usp=sharing
+If you have any suggestions or bugs, please leave it in issues. Thanks
